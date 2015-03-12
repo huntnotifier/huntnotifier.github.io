@@ -1,0 +1,56 @@
+@media only screen and (max-width: 320px) {
+
+}
+
+body{
+    padding:0;
+    margin:0;
+}
+
+.header{
+    padding:5px;
+    text-align: center;
+    width:320px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.header .logo{
+    width:64px;
+    height:64px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+.header span{
+    color:#DA552F;
+    font-size: 36px;
+}
+
+.content{
+    text-align: center;
+}
+
+.content img{
+    max-width: 100%;
+    height: auto;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.buttons a{
+    line-height: 2;
+    margin:10px;
+}
+
+h1{
+    text-align: center;
+    padding:10px;
+}
+
+.subtitle{
+    color:#DA552F;
+    font-size: 24px;
+}
